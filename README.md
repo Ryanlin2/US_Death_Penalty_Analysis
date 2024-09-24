@@ -10,7 +10,7 @@ This project examines the trends in death penalty executions across the United S
 ## Table of Contents
 
 1. [Introduction](#introduction)
-2. [Project File](#Project-file)
+2. [Project](#Project)
 3. [Data Source](#data-source)
 4. [Data Wrangling](#data-wrangling)
 5. [Exploratory Data Analysis](#exploratory-data-analysis)
@@ -24,7 +24,9 @@ This project examines the trends in death penalty executions across the United S
 The death penalty has long been a controversial topic in the United States. This project aims to identify trends that influence death penalty outcomes by analyzing various factors such as race, sex, geographic location, and political affiliation. We also examine how the death penalty has evolved over time, looking at the peak execution rates around the year 2000 and the subsequent decline.
 
 ---
-## Project File
+## Project
+
+To see full project click here : [Link](./index.html)
 
 ---
 
