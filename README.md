@@ -1,4 +1,4 @@
-# Death Penalty Across the United States - Final Report
+# Death Penalty Across the United States 
 
 **Authors**: Ryan Lin, Luke Bobosky, Owen Braun, Runjie Yang  
 **Date**: 2023-05-05  
