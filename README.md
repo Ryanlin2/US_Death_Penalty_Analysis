@@ -16,7 +16,7 @@ This project examines the trends in death penalty executions across the United S
 5. [Findings](#findings)
 6. [How to Run This Project](#how-to-run-this-project)
 7. [Opening the `index.html` File](#opening-the-indexhtml-file)
-8. [License](#license)
+
 
 ---
 
@@ -77,16 +77,8 @@ Most executions involve crimes with a single victim, with white female victims b
 
 ---
 
-## How to Run This Project
+## How to view this Project
 
-### Prerequisites
-- **R**: Ensure you have R installed on your system.
-- **Libraries**: The following R libraries are required:
-  - `dplyr`
-  - `ggplot2`
-  - `readr`
 
-### Steps
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/death-penalty-analysis.git
+
+
