@@ -81,8 +81,6 @@ Most executions involve crimes with a single victim, with white female victims b
 
 ---
 
-## How to view this Project
-
 
 
 
