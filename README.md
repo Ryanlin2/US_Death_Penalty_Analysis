@@ -26,7 +26,7 @@ The death penalty has long been a controversial topic in the United States. This
 ---
 ## Project
 
-To see full project click here : [Link]([https://Ryanlin2.github.io/US_Death_Penalty_Analysis.html](https://ryanlin2.github.io/US_Death_Penalty_Analysis/))
+To see full project click here : [Link](https://ryanlin2.github.io/US_Death_Penalty_Analysis/)
 
 ---
 
